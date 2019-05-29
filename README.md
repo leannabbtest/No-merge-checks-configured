@@ -1,1 +1,0 @@
-# No-merge-checks-configured
